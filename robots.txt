@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://SENING-SAYTING-URLING/sitemap.xml
